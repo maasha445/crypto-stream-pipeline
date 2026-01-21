@@ -60,7 +60,7 @@ dashboard.py (Streamlit) reads data from PostgreSQL and allows users to:
   Interact with live-updating charts
 
 
-## Installation & Setup**
+## Installation & Setup
 
 **Clone the repository:**
 
